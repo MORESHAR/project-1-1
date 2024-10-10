@@ -1,0 +1,209 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: Go in The Moon;
+    src: url(./fonts/Darkline.ttf);
+}
+
+@font-face {
+    font-family: dm sans;
+    src: url(./fonts/DMSans-VariableFont_opsz\,wght.ttf);
+}
+
+@font-face {
+    font-family: mio;
+    src: url(./fonts/Sequel\ Sans\ Medium\ Obl\ Disp.ttf);
+}
+
+div.rect {
+    width: 1440px;
+    height: 120px;
+    margin: 50px auto;
+}
+
+span.sportnews {
+    font-family: Go in The Moon;
+    height: 42px;
+    position: relative;
+    top: 50px;
+    left: 1167px;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 42px;
+    display: inline-block;
+    color: #000000;
+    direction: rtl;
+}
+
+div.haeder {
+    width: 590px;
+    height: 62px;
+    position: relative;
+    left: 363px;
+    gap: 19px;
+    margin-left: 50px;
+}
+
+nav.nav {
+    width: 1000px;
+    height: 62px;
+    padding: 10px;
+    display: inline-block;
+
+}
+
+span.rect2 {
+    width: 1000px;
+    height: 35px;
+    position: relative;
+    top: 28px;
+    left: 1205px;
+    padding: 15px;
+    border-radius: 6px;
+    background: white;
+
+}
+
+span.home {
+    position: absolute;
+    left: 583px;
+    top: 10px;
+    width: 44px;
+    height: 42px;
+    font-family: dm sans;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 42px;
+    color: hsla(0, 0%, 15%, 0.6);
+    direction: rtl;
+
+}
+
+a.lok {
+    text-decoration: none;
+}
+
+a.look {
+    text-decoration: none;
+}
+
+a.loook {
+    text-decoration: none;
+}
+
+a.looook {
+    text-decoration: none;
+}
+
+span.category {
+    height: 42px;
+    font-family: dm sans;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 42px;
+    color: hsla(0, 0%, 15%, 0.6);
+    position: absolute;
+    left: 517px;
+    top: 9px;
+    direction: rtl;
+
+
+}
+
+span.trendingnews {
+    width: 92px;
+    height: 42px;
+    font-family: dm Sans;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 42px;
+    color: hsla(0, 0%, 15%, 0.6);
+    position: absolute;
+    left: 300px;
+    top: 7px;
+    direction: rtl;
+}
+
+span.contactus {
+    font-family: dm sans;
+    color: #262626;
+    position: absolute;
+    top: 18px;
+    left: 426px;
+    direction: rtl;
+    font-weight: 700;
+}
+
+form {
+    width: 70%;
+    margin: 50px auto;
+    background-color: #B8C2CE;
+    padding: 50px;
+
+}
+
+input[type=text],
+select,
+textarea {
+    display: inline-block;
+    margin: 50px auto;
+    resize: none;
+    transition: 500ms;
+}
+
+label {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+input[type=text]:focus,
+textarea:focus {
+    background-color: #e6e7e8;
+    width: 10%;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+input[type=email] {
+    display: inline-block;
+    margin: 50px auto;
+    resize: none;
+    transition: 500ms;
+    position: absolute;
+    right: 375px;
+    top: 333px;
+}
+
+label.lobel {
+    position: absolute;
+    top: 385px;
+    right: 273px;
+}
+
+input[type=email]:focus,
+textarea:focus {
+    background-color: #e6e7e8;
+    width: 10%;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+span.category:hover {
+    color: #262626;
+}
+
+span.home:hover {
+    color: #262626;
+
+}
+
+span.trendingnews:hover {
+    color: #262626;
+}
+
+span.contactus:hover {
+    color: #262626;
+}

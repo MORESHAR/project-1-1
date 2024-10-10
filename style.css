@@ -1,0 +1,335 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: Go in The Moon;
+    src: url(./fonts/Darkline.ttf);
+}
+
+@font-face {
+    font-family: dm sans;
+    src: url(./fonts/DMSans-VariableFont_opsz\,wght.ttf);
+}
+
+@font-face {
+    font-family: mio;
+    src: url(./fonts/Sequel\ Sans\ Medium\ Obl\ Disp.ttf);
+}
+
+div.rect {
+    width: 1440px;
+    height: 120px;
+    margin: 50px auto;
+}
+
+span.sportnews {
+    height: 42px;
+    position: relative;
+    top: 49px;
+    left: 1179px;
+    font-weight: 700;
+    font-size: 42px;
+    display: inline-block;
+    color: #000000;
+    direction: rtl;
+}
+
+span.contactus {
+    font-family: dm sans;
+    color: hsla(0, 0%, 15%, 0.6);
+    position: absolute;
+    left: 432px;
+    top: 24px;
+    font-weight: 700;
+}
+
+div.haeder {
+    width: 590px;
+    height: 62px;
+    position: relative;
+    left: 363px;
+    gap: 19px;
+    margin-left: 50px;
+}
+
+nav.nav {
+    width: 1000px;
+    height: 62px;
+    padding: 10px;
+    display: inline-block;
+
+}
+
+span.rect2 {
+    width: 1000px;
+    height: 35px;
+    position: relative;
+    top: 28px;
+    left: 1205px;
+    padding: 15px;
+    border-radius: 6px;
+    background: white;
+
+}
+
+span.home {
+    width: 44px;
+    height: 42px;
+    font-family: dm sans;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 42px;
+    color: #262626;
+    position: absolute;
+    left: 610px;
+    top: 15px;
+
+}
+
+a.lok {
+    text-decoration: none;
+}
+
+a.look {
+    text-decoration: none;
+}
+
+a.loook {
+    text-decoration: none;
+}
+
+a.looooook {
+    text-decoration: none;
+}
+
+span.category {
+    height: 42px;
+    font-family: dm sans;
+    font-weight: 700;
+    font-size: 15px;
+    color: hsla(0, 0%, 15%, 0.6);
+    position: absolute;
+    left: 521px;
+    top: 25px;
+}
+
+span.trendingnews {
+    width: 92px;
+    height: 42px;
+    font-family: dm Sans;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 42px;
+    color: hsla(0, 0%, 15%, 0.6);
+    position: absolute;
+    left:324px ;
+    top: 15px;
+
+}
+
+div.rect3 {
+    background-color: rgb(249, 250, 252);
+    width: 1383px;
+    height: 883px;
+    top: 112px;
+    margin-left: 78px;
+
+}
+
+div.rect4 {
+    width: 270px;
+    height: 654px;
+    position: relative;
+    top: 180px;
+    left: 1105px;
+}
+
+div.rect5 {
+    width: 270px;
+    height: 233px;
+    position: relative;
+    border-radius: 6px;
+
+}
+
+.img1 {
+    width: 270px;
+    height: 233px;
+    margin-top: 421px;
+    border-radius: 6px;
+    filter: grayscale(80%) opacity(90%);
+}
+
+div.caption>span.capitan2 {
+    position: absolute;
+    top: 600px;
+    left: 79px;
+    background: rgba(38, 38, 38, 1);
+    bottom: 0;
+    font-family: mio;
+    font-size: 16px;
+    direction: rtl;
+}
+
+div.caption>span.capitan {
+    position: absolute;
+    top: 575px;
+    left: 154px;
+    bottom: 0;
+    font-family: dm sans;
+    font-size: 10px;
+    background: rgba(38, 38, 38, 0.6);
+
+}
+
+div.rect6 {
+    width: 270px;
+    height: 233px;
+    position: relative;
+    top: -235px;
+    left: -3px;
+    border-radius: 6px;
+}
+
+div.caption2>span.capitan4 {
+    position: absolute;
+    top: 342px;
+    left: 10px;
+    color: rgba(38, 38, 38, 1);
+    bottom: 0;
+    font-family: mio;
+    font-size: 16px;
+    direction: rtl;
+}
+
+div.caption2>span.capitan3 {
+    position: absolute;
+    top: 320px;
+    left: 195px;
+    bottom: 0;
+    font-family: dm sans;
+    font-size: 10px;
+    color: rgba(38, 38, 38, 0.6);
+    direction: rtl;
+
+}
+
+.img2 {
+    width: 270px;
+    height: 233px;
+    margin-top: 150px;
+    margin-left: 3px;
+    border-radius: 6px;
+    filter: opacity(80%);
+}
+
+div.rect7 {
+    position: relative;
+    width: 30px;
+    height: 20px;
+    top: -290px;
+    left: 3px;
+    padding: 4px 16px 4px 16px;
+    background: rgba(225, 232, 240, 1);
+    border-radius: 3px;
+}
+
+span.caption5 {
+    position: absolute;
+    top: 3px;
+    left: 10px;
+    font-family: dm sans;
+    font-size: 15px;
+    color: rgba(184, 194, 206, 1);
+
+}
+
+div.rect8 {
+    margin-left: 650px;
+    margin-top: -200px;
+    width: 440px;
+    height: 265px;
+    border-radius: 6px;
+
+}
+
+span.reza {
+    font-family: dm sans;
+    font-family: DM Sans;
+    position: relative;
+    font-size: 18px;
+    font-weight: 400;
+    width: 364px;
+    height: 75px;
+    top: 0px;
+    left: -64px;
+    direction: rtl;
+}
+
+.img3 {
+    width: 820px;
+    position: relative;
+    top: -750px;
+    left: 410px;
+    filter: grayscale(100%);
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+span.basket {
+    color: linear-gradient(180deg, #262626 0%, #B8C2CE 100%);
+    position: relative;
+    width: 100%;
+    height: 300px;
+    top: 50px;
+    left: 135px;
+    font-family: mio;
+    font-size: 80px;
+}
+
+.image2 {
+    width: 820px;
+    height: 580px;
+    position: relative;
+    top: -550px;
+    left: 10px;
+    filter: grayscale(100%);
+}
+
+div.rect10 {
+    width: 230px;
+    height: 32px;
+    position: relative;
+    top: 36px;
+    left: 38px;
+    padding: 12px 32px 12px 32px;
+    border-radius: 6px;
+    background: #262626;
+
+}
+
+span.reo {
+    position: absolute;
+    left: 30px;
+    top: 10px;
+    font-family: dm sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 38px;
+    margin-left: 15px;
+    color: #E1E8F0;
+}
+
+span.category:hover {
+    color: #262626;
+}
+
+span.trendingnews:hover {
+    color: #262626;
+}
+span.contactus:hover {
+    color: #262626;
+}

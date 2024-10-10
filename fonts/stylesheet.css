@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Ga Maamli';
+    src: url('GaMaamli-Regular.eot');
+    src: url('GaMaamli-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GaMaamli-Regular.woff2') format('woff2'),
+        url('GaMaamli-Regular.woff') format('woff'),
+        url('GaMaamli-Regular.ttf') format('truetype'),
+        url('GaMaamli-Regular.svg#GaMaamli-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
